@@ -6,9 +6,7 @@ Welcome to *REESTAR, a clean and vibrant food recipe website built with just **H
 
 ## 🌟 Live Demo
 
-🔗 [View Website Here](https://yourusername.github.io/reestar/)  
-(Replace with your actual GitHub Pages link)
-
+🔗 [View Website Here] https://mushbiqa29.github.io/simple-reestar-website/
 ---
 
 ## 💡 Features
